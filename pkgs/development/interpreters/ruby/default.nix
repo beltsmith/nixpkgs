@@ -266,4 +266,12 @@ in {
       git = "0kbgznf1yprfp9645k31ra5f4757b7fichzi0hdg6nxkj90853s0";
     };
   };
+
+  ruby_3_0 = generic {
+    version = rubyVersion "3" "0" "0" "";
+    sha256 = {
+      src = "0a4fmxafxvkg1m738g2lmkhipwnmd96kzqy1m9kvk3n1l50x2gm1";
+      git = "0fvnxv97m94nridlc5nvvrlg53pr5g042dkfc5ysd327s7xj4cjp";
+    };
+  };
 }

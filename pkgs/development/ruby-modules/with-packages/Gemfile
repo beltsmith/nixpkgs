@@ -93,6 +93,7 @@ source 'https://rubygems.org' do
   gem 'markaby'
   gem 'method_source'
   gem 'mini_magick'
+  gem 'minitest'
   gem 'msgpack'
   gem 'mysql2'
   # gem 'mysql' deprecated
